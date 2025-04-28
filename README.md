@@ -21,4 +21,4 @@ A web application for manually tracking investment portfolios with comprehensive
 
 **Backend:**
 - Node.js/Express
-- PRISM
+- PostgreSQL
